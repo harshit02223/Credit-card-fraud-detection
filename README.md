@@ -6,3 +6,5 @@ your money. Stay alert & report anything odd!
 
 . Made for banks to find the fishy purchases
 . Stay alert and report anything odd
+
+# FOR CODE I HAVE ATTATCHED A PDF
